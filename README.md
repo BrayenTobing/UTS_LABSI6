@@ -10,7 +10,7 @@ Make Bye Edwin Brayen Lumban Tobing and Aldo Panjaitan
 <br/>
 Username : bara
 <br/>
-Password : 22
+Password : 222
 
 <b>Anggota Adventure Store :</b>
 <br/>
